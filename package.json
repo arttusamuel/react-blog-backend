@@ -9,7 +9,7 @@
     "dev": "cross-env NODE_ENV=development nodemon index.js",
     "reset": "cross-env NODE_ENV=development node ./utils/reset_db.js"
   },
-  "author": "Jarko Papalitsas",
+  "author": "Arttu K",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
